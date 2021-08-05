@@ -1,0 +1,12 @@
+root {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+p {
+    position: absolute;
+    display: inline-block;
+    bottom: 20px;
+    right: 50px;
+    
+}
